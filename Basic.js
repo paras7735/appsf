@@ -22,7 +22,7 @@ export default class Basic extends Component {
         this.state = {
             isOpen: false,
             selectedItem: 'About',
-            loginData:'njnjnj',login:0
+            loginData:'logindata',login:0
         };
     }
 
